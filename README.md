@@ -1,3 +1,3 @@
 Projeto_Dispositivos_Moveis
 
-Esse repositório contém todas as atividades da disciplina Desenvolvimento para Dispositivos Móveis.
+Esse repositório contém o projeto final da disciplina Desenvolvimento para Dispositivos Móveis.
